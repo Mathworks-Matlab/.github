@@ -1,7 +1,7 @@
 # Mathworks Matlab Numerical Computing Hub
 
 <div align="center">
-  <img src="https://www.edn.com/wp-content/uploads/MathWorks-R2024b.jpg?fit=800%2C257" alt="Mathworks Matlab Logo"/>
+  <img src="https://dailycadcam.com/wp-content/uploads/2022/04/mathworks_new.jpg" alt="Mathworks Matlab Logo"/>
 </div>
 
 **Optimize your scientific computing workflow with expert resources for Mathworks Matlab numerical analysis and algorithm development.**
